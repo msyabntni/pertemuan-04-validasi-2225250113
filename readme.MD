@@ -1,1 +1,0 @@
-# pertemuan-04-validasi-2225250113
