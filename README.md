@@ -6,7 +6,9 @@
 
 **NIM:** 225250113
 
-**Kelas:** 3E Pendidikan Matematika
+**Kelas:** 3E 
+
+ **Jurusan:** Pendidikan Matematika
 
 ---
 
